@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Compose</string>
+    <string name="title_activity_edit_text_button_snack_bar">EditText_Button_SnackBar</string>
+    <string name="title_activity_list_view">ListView</string>
+    <string name="title_activity_constraint_layout_demo">ConstraintLayoutDemo</string>
+    <string name="title_activity_custom_view">CustomView</string>
+    <string name="title_activity_volume_control">VolumeControl</string>
+    <string name="title_activity_meditation_ui">MeditationUi</string>
+</resources>
