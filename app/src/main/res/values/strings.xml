@@ -6,4 +6,5 @@
     <string name="title_activity_custom_view">CustomView</string>
     <string name="title_activity_volume_control">VolumeControl</string>
     <string name="title_activity_meditation_ui">MeditationUi</string>
+    <string name="title_activity_ex1">Ex1</string>
 </resources>

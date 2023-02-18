@@ -268,7 +268,7 @@ fun FeatureItem(
         val mediumColorPoint2 = Offset(width * 0.1f, height * 0.35f)
         val mediumColorPoint3 = Offset(width * 0.4f, height * 0.05f)
         val mediumColorPoint4 = Offset(width * 0.75f, height * 0.7f)
-        val mediumColorPoint5 = Offset(width * 0.4f, -height.toFloat())
+        val mediumColorPoint5 = Offset(width * 1.4f, -height.toFloat())
 
         val lightPoint1 = Offset(0f, height * 0.35f)
         val lightPoint2 = Offset(width * 0.1f, height * 0.4f)

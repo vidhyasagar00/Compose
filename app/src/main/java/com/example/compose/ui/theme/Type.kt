@@ -8,7 +8,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
 import com.example.compose.R
 
-val gothicA1 = FontFamily(
+val font = FontFamily(
     listOf(
         Font(R.font.kalam_regular, FontWeight.Normal),
         Font(R.font.kalam_regular, FontWeight.Medium),
@@ -20,20 +20,20 @@ val gothicA1 = FontFamily(
 val Typography = Typography(
     body1 = TextStyle(
         color = AquaBlue,
-        fontFamily = gothicA1,
+        fontFamily = font,
         fontWeight = FontWeight.Normal,
         fontSize = 14.sp
     ),
 
     h1 = TextStyle(
         color = TextWhite,
-        fontFamily = gothicA1,
+        fontFamily = font,
         fontWeight = FontWeight.Bold,
         fontSize = 22.sp
     ),
     h2 = TextStyle(
         color = TextWhite,
-        fontFamily = gothicA1,
+        fontFamily = font,
         fontWeight = FontWeight.Bold,
         fontSize = 18.sp
     )
